@@ -15,7 +15,7 @@ thead{
 td,
  th{
     padding: 0.5rem 1rem;
-    border: 1px solid;
+    border: 1px solid #888;
     text-align: center;
 }
 td[colspan]{
